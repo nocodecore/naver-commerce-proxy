@@ -1,0 +1,15 @@
+{
+  "name": "naver-commerce-proxy",
+  "version": "1.0.0",
+  "description": "Naver Commerce API Proxy for Bubble.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "node-fetch": "^2.7.0",
+    "bcryptjs": "^2.4.3"
+  }
+}
